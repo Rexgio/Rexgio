@@ -3,7 +3,7 @@
 - 📚 I'm currently learning pentesting
 - 💻 I have a junior fullstack
 
->> Skills
+> Skills
 >REACT
 >Javascript
 >Python
