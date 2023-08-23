@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 📚 I'm currently learning pentesting
+- 💻 I have a junior fullstack
+
+>> Skills
+>REACT
+>Javascript
+>Python
+>HTML, CSS
 <!--
 **Rexgio/Rexgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
