@@ -4,10 +4,10 @@
 - 💻 I have a junior fullstack
 
 > Skills
->REACT
->Javascript
->Python
->HTML, CSS
+REACT
+Javascript
+Python
+HTML, CSS
 <!--
 **Rexgio/Rexgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
